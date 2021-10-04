@@ -1,0 +1,36 @@
+800
+gram
+kuşbaşı dana eti
+1
+yemek kaşığı
+ayçiçek yağı
+2
+yemek kaşığı
+tereyağı
+1
+adet
+orta boy kuru soğan
+3
+diş
+sarımsak
+1
+yemek kaşığı
+un
+1
+tatlı
+kaşığı domates salçası
+1
+tatlı kaşığı
+tuz
+2
+adet
+orta boy patates
+1
+adet
+orta boy havuç
+3
+su bardağı
+sıcak su
+4
+adet
+tane karabiber
